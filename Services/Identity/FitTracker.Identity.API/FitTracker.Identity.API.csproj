@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FitTracker.Identity.Application\FitTracker.Identity.Application.csproj" />
+    <ProjectReference Include="..\FitTracker.Identity.Infrastructure\FitTracker.Identity.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

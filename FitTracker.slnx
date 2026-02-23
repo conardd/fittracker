@@ -1,0 +1,34 @@
+<Solution>
+  <Folder Name="/Analytics/">
+    <Project Path="Services/Analytics/FitTracker.Analytics.API/FitTracker.Analytics.API.csproj" />
+    <Project Path="Services/Analytics/FitTracker.Analytics.Application/FitTracker.Analytics.Application.csproj" />
+    <Project Path="Services/Analytics/FitTracker.Analytics.Domain/FitTracker.Analytics.Domain.csproj" />
+    <Project Path="Services/Analytics/FitTracker.Analytics.Infrastructure/FitTracker.Analytics.Infrastructure.csproj" />
+    <Project Path="Services/Analytics/FitTracker.Analytics.Tests.Integration/FitTracker.Analytics.Tests.Integration.csproj" />
+    <Project Path="Services/Analytics/FitTracker.Analytics.Tests.Unit/FitTracker.Analytics.Tests.Unit.csproj" />
+  </Folder>
+  <Folder Name="/Identity/">
+    <Project Path="Services/Identity/FitTracker.Identity.API/FitTracker.Identity.API.csproj" />
+    <Project Path="Services/Identity/FitTracker.Identity.Application/FitTracker.Identity.Application.csproj" />
+    <Project Path="Services/Identity/FitTracker.Identity.Domain/FitTracker.Identity.Domain.csproj" />
+    <Project Path="Services/Identity/FitTracker.Identity.Infrastructure/FitTracker.Identity.Infrastructure.csproj" />
+    <Project Path="Services/Identity/FitTracker.Identity.Tests.Integration/FitTracker.Identity.Tests.Integration.csproj" />
+    <Project Path="Services/Identity/FitTracker.Identity.Tests.Unit/FitTracker.Identity.Tests.Unit.csproj" />
+  </Folder>
+  <Folder Name="/Notification/">
+    <Project Path="Services/Notification/FitTracker.Notification.API/FitTracker.Notification.API.csproj" />
+    <Project Path="Services/Notification/FitTracker.Notification.Application/FitTracker.Notification.Application.csproj" />
+    <Project Path="Services/Notification/FitTracker.Notification.Domain/FitTracker.Notification.Domain.csproj" />
+    <Project Path="Services/Notification/FitTracker.Notification.Infrastructure/FitTracker.Notification.Infrastructure.csproj" />
+    <Project Path="Services/Notification/FitTracker.Notification.Tests.Integration/FitTracker.Notification.Tests.Integration.csproj" />
+    <Project Path="Services/Notification/FitTracker.Notification.Tests.Unit/FitTracker.Notification.Tests.Unit.csproj" />
+  </Folder>
+  <Folder Name="/Workout/">
+    <Project Path="Services/Workout/FitTracker.Workout.API/FitTracker.Workout.API.csproj" />
+    <Project Path="Services/Workout/FitTracker.Workout.Application/FitTracker.Workout.Application.csproj" />
+    <Project Path="Services/Workout/FitTracker.Workout.Domain/FitTracker.Workout.Domain.csproj" />
+    <Project Path="Services/Workout/FitTracker.Workout.Infrastructure/FitTracker.Workout.Infrastructure.csproj" />
+    <Project Path="Services/Workout/FitTracker.Workout.Tests.Integration/FitTracker.Workout.Tests.Integration.csproj" />
+    <Project Path="Services/Workout/FitTracker.Workout.Tests.Unit/FitTracker.Workout.Tests.Unit.csproj" />
+  </Folder>
+</Solution>
